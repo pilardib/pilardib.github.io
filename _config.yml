@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Pilar Dib"
 title_separator          : "-"
 name                     : &name "Pilar Dib"
-description              : &description " "
+description              : &description ""
 url                      : https://pilardib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pilardib/pilardib.github.io"
