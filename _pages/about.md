@@ -7,7 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> Hello, my name is Pilar Dib. I hold a Bachelor's Degree in Chemical Engineering from the Pontifical Catholic University of Campinas (PUC-Campinas), where I graduated in 2018. During the last two years of university, I completed an internship at the Brazilian Biorenewables National Laboratory (LNBR) within the Biorefinery & Natural Resources Group. My internship focused on the process simulation and evaluation of ethanol production in Brazil. After graduating, I started a PhD program in Bioenergy at the State University of Campinas (UNICAMP). After four years in the program, my career interests evolved, leading me to leave the program. Now, I'm looking to apply my analytical and problem-solving skills, along with my commitment to sustainability, to transition to a career in data science and technology.</div>
-
-
-
+<div style="text-align: justify"> Hello, my name is Pilar Dib. I hold a Bachelor's Degree in Chemical Engineering, awarded by the Pontifical Catholic University of Campinas (PUC-Campinas) in 2018. Following my graduation, I embarked on a doctoral journey in Bioenergy at the State University of Campinas (UNICAMP), immersing myself for four years in programming and process simulation, advanced research methodologies and critical analytical skills. Now, I am eager to leverage these skills in my transition to a career in data analysis.</div>
