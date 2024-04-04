@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2014 - 2018 - Bachelor’s Degree, Chemical Engineering, PUC-Campinas, Campinas, São Paulo, Brazil
+* 2007 - 2013 - High School, American School of Campinas, Campinas, São Paulo, Brazil
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2019 - Dec 2023 (Interrupted) PhD Researcher in Bioenergy, Brazilian Biorrenewables National Laboratory (LNBR/CNPEM) and FEA/Unicamp. Campinas, São Paulo, Brazil
+  * Calculated mass and energy balances of biorefinery industrial processes with the aid of process simulations
+  * Evaluated possibilities to reduce energy and water consumption in biorefinery processes with mathematical optimization
+  * Participated in conferences and talks to communicate findings
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2017 - Dec 2018 - Intern at the Brazilian Biorrenewables National Laboratory (LNBR/CNPEM) in the Biorefinery & Natural Resources Group
+  * Simulated biorefinery processes in open-source process simulator DWSIM
+  * Developed an Excel Spreadsheet and VBA modules to carry out energy and mass balance calculations of biorefinery processes
   
+Languages
+======
+* English - Native Proficiency
+* Brazilian Portuguese - Native Proficiency
+* Spanish - Native Proficiency
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aspen Plus
+* Excel
+* Python
+* Microsoft Office (word, powerpoint, etc)
 
-Publications
+Volunteering
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2016 - 2021- Volunteer English Teacher at Cidadão Pró-Mundo NGO
+    * Responsibilities included planning, teaching and tutoring two students each semester
+* 2017 and 2019 - Volunteer at “Ciência Aberta” event
+    * Present and engage the general public in activities related to science
+* 2014 - 2016 -   Volunteer Audiovisual Translator at Khan Academy
+    * Responsibilities included translating, subtitling, and revising the platform’s videos
+
+Courses
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023 - Fitting Statistical Models to Data with Python (15 hours) - University of Michigan (on Coursera)
+* 2023 - Understanding and Visualizing Data with Python (19 hours) - University of Michigan (on Coursera)
+* 2022 - Introduction to Machine Learning (21 hours) - Duke University (on Coursera)
+* 2022 - Mathematics for Machine Learning Integrated Courses (60 hours) - Imperial College London (on Coursera)
+* 2022 - Data Science Math Skills (13 hours) - Duke University (on Coursera)
+
