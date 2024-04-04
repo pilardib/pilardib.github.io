@@ -8,4 +8,4 @@ date: 2021-10-10
 location: "Online"
 ---
 
-Recorded video presentation at the 16th Conference on Sustainable Development of Energy, Water and Environment Systems – SDEWES". I also voluteered as an online session chair. 
+Pre-recorded video presentation at the 16th Conference on Sustainable Development of Energy, Water and Environment Systems – SDEWES". I also voluteered as an online session chair. 
