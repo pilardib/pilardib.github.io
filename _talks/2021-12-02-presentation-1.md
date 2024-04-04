@@ -4,7 +4,7 @@ collection: talks
 type: Talk
 permalink: /talks/2021-12-02-presentation-1
 venue: "Brazilian Center for Research in Energy and Materials (CNPEM)"
-date: 2012-03-01
+date: 2021-12-02
 location: "Campinas, Brazil (Remote)"
 ---
 
