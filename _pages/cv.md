@@ -33,9 +33,12 @@ Languages
 
 Skills
 ======
+* Python
 * Aspen Plus
 * Excel
-* Python
+* VBA
+* Power BI
+* Mathematical optimization
 * Microsoft Office (word, powerpoint, etc)
 
 Volunteering
@@ -49,6 +52,8 @@ Volunteering
 
 Courses
 ======
+* 2024 - Modelando Dados no Power BI (11 hours) - Fundação Bradesco e Microsoft
+* 2024 - Preparando Dados para Análise no Power BI (7 hours) - Fundação Bradesco e Microsoft
 * 2023 - Fitting Statistical Models to Data with Python (15 hours) - University of Michigan (on Coursera)
 * 2023 - Understanding and Visualizing Data with Python (19 hours) - University of Michigan (on Coursera)
 * 2022 - Introduction to Machine Learning (21 hours) - Duke University (on Coursera)
